@@ -1,7 +1,5 @@
 # Carley Andelin - Portfolio
 
-Personal portfolio website showcasing projects and work.
+Visit my portfolio: **[carleyandelin.github.io](https://carleyandelin.github.io)**
 
-Built with Jekyll and GitHub Pages.
-
-Visit: [carleyandelin.github.io](https://carleyandelin.github.io)
+Personal portfolio website showcasing my projects and work, built with HTML, CSS, and GitHub Pages.
